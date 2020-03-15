@@ -1,5 +1,5 @@
 # pytest-project
-## This project contains of:
+## This project contains:
 #### 1) the calculator tests with the following methods: 
 - adding
 - subtraction
