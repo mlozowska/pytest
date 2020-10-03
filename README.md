@@ -45,7 +45,7 @@ pytest --html=report.html
 
 
 #### Most common problems:
-1) Incorrent/lack of environment path
+1) Incorrect/lack of environment path
 2) Permission denied
 
 #### Solutions
